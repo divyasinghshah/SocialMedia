@@ -1,0 +1,12 @@
+#main-body {
+  display: flex; }
+  #main-body #user-post {
+    width: 70%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
+  #main-body #user-friends {
+    width: 30%;
+    padding: 20px;
+    border-left: 2px solid lightgray; }

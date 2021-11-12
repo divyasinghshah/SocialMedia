@@ -1,0 +1,14 @@
+#navbar {
+  height: auto;
+  background-color: rgb(35, 226, 162);
+  font-size: 2rem;
+  padding: 10px;
+  #layout-header {
+    display: flex;
+    justify-content: space-between;
+    a {
+      font-size: 1.5rem;
+      margin: 10px;
+    }
+  }
+}

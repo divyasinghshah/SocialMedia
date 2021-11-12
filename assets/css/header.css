@@ -1,0 +1,11 @@
+#navbar {
+  height: auto;
+  background-color: #23e2a2;
+  font-size: 2rem;
+  padding: 10px; }
+  #navbar #layout-header {
+    display: flex;
+    justify-content: space-between; }
+    #navbar #layout-header a {
+      font-size: 1.5rem;
+      margin: 10px; }
